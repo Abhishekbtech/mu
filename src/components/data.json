@@ -1,0 +1,219 @@
+{
+    "data": [
+        {
+            "S. No.": 1,
+            "Department": "Management",
+            "Total Tasks": 100,
+            "In Progress": 40,
+            "In Pipeline": 20,
+            "For Review": 30,
+            "Unassigned": 10,
+            "subDepartments": [
+                {
+                    "S. No.": 1,
+                    "Department": "Admin, Fin, Legal",
+                    "Total Tasks": 45,
+                    "In Progress": 5,
+                    "In Pipeline": 12,
+                    "For Review": 10,
+                    "Unassigned": 3,
+                    "task": [
+                        {
+                            "S. No.": 1,
+                            "Task": "Update edit in department",
+                            "Assigned To": "Aditya",
+                            "Impact": "High",
+                            "Complete Within": "Week",
+                            "Assignee": "Ishaan",
+                            "Start Date": "04/03/2024",
+                            "Deadline": "10/03/2024"
+                        },
+                        {
+                            "S. No.": 2,
+                            "Task": "Monthly Performance Review of AUM, Strategies, Slippages, Revenue, Expenses",
+                            "Assigned To": "",
+                            "Impact": "Low",
+                            "Complete Within": "Month",
+                            "Assignee": "Ayush",
+                            "Start Date": "05/03/2024",
+                            "Deadline": "20/03/2024"
+                        },
+                        {
+                            "S. No.": 3,
+                            "Task": "Update edit in department",
+                            "Assigned To": "Aditya",
+                            "Impact": "High",
+                            "Complete Within": "Week",
+                            "Assignee": "Ishaan",
+                            "Start Date": "04/03/2024",
+                            "Deadline": "10/03/2024"
+                        },
+                        {
+                            "S. No.": 4,
+                            "Task": "Monthly Performance Review of AUM, Strategies, Slippages, Revenue, Expenses",
+                            "Assigned To": "Sujal",
+                            "Impact": "Low",
+                            "Complete Within": "Month",
+                            "Assignee": "Ayush",
+                            "Start Date": "05/03/2024",
+                            "Deadline": "20/03/2024"
+                        },
+                        {
+                            "S. No.": 5,
+                            "Task": "Update edit in department",
+                            "Assigned To": "Aditya",
+                            "Impact": "High",
+                            "Complete Within": "Week",
+                            "Assignee": "Ishaan",
+                            "Start Date": "04/03/2024",
+                            "Deadline": "10/03/2024"
+                        },
+                        {
+                            "S. No.": 6,
+                            "Task": "Monthly Performance Review of AUM, Strategies, Slippages, Revenue, Expenses",
+                            "Assigned To": "Sujal",
+                            "Impact": "Low",
+                            "Complete Within": "Month",
+                            "Assignee": "Ayush",
+                            "Start Date": "05/03/2024",
+                            "Deadline": "20/03/2024"
+                        },
+                        {   
+                            "S. No.": 7,
+                            "Task": "Update edit in department",
+                            "Assigned To": "Aditya",
+                            "Impact": "High",
+                            "Complete Within": "Week",
+                            "Assignee": "Ishaan",
+                            "Start Date": "04/03/2024",
+                            "Deadline": "10/03/2024"
+                        }
+                    ]
+                },
+                {
+                    "S. No.": 2,
+                    "Department": "Founder - Growth & Strategy",
+                    "Total Tasks": 40,
+                    "In Progress": 6,
+                    "In Pipeline": 10,
+                    "For Review": 15,
+                    "Unassigned": 2
+                },
+                {
+                    "S. No.": 3,
+                    "Department": "Funding",
+                    "Total Tasks": 45,
+                    "In Progress": 5,
+                    "In Pipeline": 12,
+                    "For Review": 10,
+                    "Unassigned": 3
+                },
+                {
+                    "S. No.": 4,
+                    "Department": "Executive Assistance",
+                    "Total Tasks": 40,
+                    "In Progress": 6,
+                    "In Pipeline": 10,
+                    "For Review": 15,
+                    "Unassigned": 2
+                }
+            ]
+        },
+        {
+            "S. No.": 2,
+            "Department": "Marketing",
+            "Total Tasks": 80,
+            "In Progress": 25,
+            "In Pipeline": 15,
+            "For Review": 35,
+            "Unassigned": 5,
+            "subDepartments": [
+                {
+                    "S. No.": 1,
+                    "Department": "Branding",
+                    "Total Tasks": 45,
+                    "In Progress": 5,
+                    "In Pipeline": 12,
+                    "For Review": 10,
+                    "Unassigned": 3
+                },
+                {
+                    "S. No.": 2,
+                    "Department": "Sales",
+                    "Total Tasks": 40,
+                    "In Progress": 6,
+                    "In Pipeline": 10,
+                    "For Review": 15,
+                    "Unassigned": 2
+                }
+            ]
+        },
+        {
+            "S. No.": 3,
+            "Department": "Product",
+            "Total Tasks": 100,
+            "In Progress": 40,
+            "In Pipeline": 20,
+            "For Review": 30,
+            "Unassigned": 10,
+            "subDepartments": [
+                {
+                    "S. No.": "1",
+                    "Department": "Infra",
+                    "Total Tasks": "45",
+                    "In Progress": "5",
+                    "In Pipeline": "12",
+                    "For Review": "10",
+                    "Unassigned": "3"
+                },
+                {
+                    "S. No.": "2",
+                    "Department": "Quant Delivery",
+                    "Total Tasks": "40",
+                    "In Progress": "6",
+                    "In Pipeline": "10",
+                    "For Review": "15",
+                    "Unassigned": "2"
+                },
+                {
+                    "S. No.": "3",
+                    "Department": "Quant Development",
+                    "Total Tasks": "45",
+                    "In Progress": "5",
+                    "In Pipeline": "12",
+                    "For Review": "10",
+                    "Unassigned": "3"
+                },
+                {
+                    "S. No.": "4",
+                    "Department": "Quant Research",
+                    "Total Tasks": "40",
+                    "In Progress": "6",
+                    "In Pipeline": "10",
+                    "For Review": "15",
+                    "Unassigned": "2"
+                }
+            ]
+        },
+        {
+            "S. No.": 4,
+            "Department": "Team Building",
+            "Total Tasks": 80,
+            "In Progress": 25,
+            "In Pipeline": 15,
+            "For Review": 35,
+            "Unassigned": 5,
+            "subDepartments": [
+                {
+                    "S. No.": "1",
+                    "Department": "Team Retention",
+                    "Total Tasks": "45",
+                    "In Progress": "5",
+                    "In Pipeline": "12",
+                    "For Review": "10",
+                    "Unassigned": "3"
+                }
+            ]
+        }
+    ]
+}
