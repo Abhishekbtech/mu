@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-dashboard.git
+   git clone https://github.com/Abhishekbtech/multiple-tables.git
    ```
 
 2. Navigate to the project directory:
@@ -47,3 +47,7 @@ Ensure you have the following installed:
     ```
 
 5. Open your browser and go to `http://localhost:3000` to see the dashboard.
+
+## Deploy on Vercel
+
+Deployment link of my project `https://to-do-lovat-tau.vercel.app/`
